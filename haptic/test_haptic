@@ -1,0 +1,4 @@
+{
+	"Version": 1,
+	"Pattern": [{"event": {"time": 0.0, "type": "haptic", "eventType": "continuous", "hapticParameters": {"intensity": 0.2, "sharpness": 0.3}, "duration": 5.0}}, {"event": {"time": 5.0, "type": "haptic", "eventType": "continuous", "hapticParameters": {"intensity": 0.6, "sharpness": 0.5}, "duration": 8.0}}, {"event": {"time": 13.0, "type": "haptic", "eventType": "continuous", "hapticParameters": {"intensity": 0.4, "sharpness": 0.2}, "duration": 5.0}}, {"event": {"time": 18.0, "type": "haptic", "eventType": "continuous", "hapticParameters": {"intensity": 0.1, "sharpness": 0.1}, "duration": 4.31}}, {"event": {"time": 0.0, "type": "audio", "eventType": "continuous", "audioParameters": {"volume": 1.0}}}]
+}
