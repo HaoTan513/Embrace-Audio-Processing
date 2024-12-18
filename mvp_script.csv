@@ -1,0 +1,66 @@
+sound_tag,ssml_content
+grass,"<speak xmlns=""http://www.w3.org/2001/10/synthesis"" 
+       xmlns:mstts=""http://www.w3.org/2001/mstts"" 
+       xmlns:emo=""http://www.w3.org/2009/10/emotionml"" 
+       version=""1.0"" xml:lang=""en-US"">
+  <voice name=""en-US-NancyNeural"">
+    <s />
+    <mstts:express-as style=""whispering"">
+      <prosody rate=""-15.00%"">
+        Imagine yourself stepping onto a path of soft,<break time=""1s""/> lush grass in a forest.<break time=""2s""/> Tall trees surround you,<break time=""1s""/> their branches swaying softly in the breeze.<break time=""2s""/> The sunlight streams through the canopy,<break time=""1s""/> creating playful patterns of light and shadow on the forest floor.<break time=""2s""/> With each step,<break time=""1s""/> you feel the gentle cushion of the earth beneath you,<break time=""1s""/> grounding you,<break time=""1s""/> connecting you deeply with the land.<break time=""2s""/>
+      </prosody>
+    </mstts:express-as>
+  </voice>
+</speak>"
+forest,"<speak xmlns=""http://www.w3.org/2001/10/synthesis"" 
+       xmlns:mstts=""http://www.w3.org/2001/mstts"" 
+       xmlns:emo=""http://www.w3.org/2009/10/emotionml"" 
+       version=""1.0"" xml:lang=""en-US"">
+  <voice name=""en-US-NancyNeural"">
+    <s />
+    <mstts:express-as style=""whispering"">
+      <prosody rate=""-15.00%"">
+        The air is fresh and crisp,<break time=""1s""/> carrying the faint,<break time=""1s""/> sweet scent of wildflowers.<break time=""2s""/> You take a deep breath,<break time=""1s""/> letting the freshness of the meadow fill your lungs,<break time=""1s""/> and notice a sense of calm and openness settling in.<break time=""2s""/> This is your EmbraceLand,<break time=""1s""/> your sanctuary of inner peace,<break time=""1s""/> a place where you’re free to let go and simply be.<break time=""2s""/> [5s] EmbraceLand is designed to be your mental sanctuary,<break time=""1s""/> a mental space where you can return to release tension,<break time=""1s""/> reconnect with your strengths,<break time=""1s""/> and cultivate a sense of inner peace.<break time=""2s""/> With each visit,<break time=""1s""/> you’ll build a ritual of recognizing your strengths and grounding yourself in peace,<break time=""1s""/> a resource you can access anytime.<break time=""2s""/>
+      </prosody>
+    </mstts:express-as>
+  </voice>
+</speak>"
+forest,"<speak xmlns=""http://www.w3.org/2001/10/synthesis"" 
+       xmlns:mstts=""http://www.w3.org/2001/mstts"" 
+       xmlns:emo=""http://www.w3.org/2009/10/emotionml"" 
+       version=""1.0"" xml:lang=""en-US"">
+  <voice name=""en-US-NancyNeural"">
+    <s />
+    <mstts:express-as style=""whispering"">
+      <prosody rate=""-15.00%"">
+        You see a gentle stream winding the forest.<break time=""2s""/> Let's dip your finger into the stream and enjoy a 4-min focused breathing meditation to ground the mind and improve focus.<break time=""2s""/> You kneel beside the stream and dip your fingers into the cool,<break time=""1s""/> clear water.<break time=""2s""/> The sensation is refreshing and grounding,<break time=""1s""/> connecting you to the present moment.<break time=""2s""/> Take a few moments here,<break time=""1s""/> breathing deeply.<break time=""2s""/> Feel the crisp air fill your lungs.<break time=""2s""/> Imagine each breath bringing in calm and releasing any tension as you exhale.<break time=""2s""/> Notice the natural flow of air as it enters and leaves your body,<break time=""1s""/> just as the stream flows smoothly over the rocks.<break time=""2s""/>[30s] As you continue to breathe,<break time=""1s""/> let your awareness rest entirely on the sensation of the breath.<break time=""2s""/> Notice how it feels as the cool air enters through your nose.<break time=""2s""/> Feel your lungs expand,<break time=""1s""/> your chest rise,<break time=""1s""/> and your belly soften.<break time=""2s""/> With each exhale,<break time=""1s""/> notice the warmth of the air leaving your body.<break time=""2s""/> Let the rhythm of your breath guide you,<break time=""1s""/> soothing your mind and body.<break time=""2s""/> [30s] Imagine each breath as something precious and delicate.<break time=""2s""/>Touch each breath with kindness and tenderness.<break time=""2s""/> [30s] If your mind starts to wander,<break time=""1s""/> that’s perfectly okay.<break time=""2s""/> No judgment,<break time=""1s""/> just awareness.<break time=""2s""/> Gently and kindly guide your focus back to your breath.<break time=""2s""/>  Let it be a friend to return to whenever you need it.<break time=""2s""/> Rest in its natural rhythm.<break time=""2s""/> [30s] Be patient with yourself.<break time=""2s""/> Don’t try to rush the process.<break time=""2s""/> Remember,<break time=""1s""/> we all have the ability to experience a single breath fully and completely.<break time=""2s""/> Take it one breath at a time.<break time=""2s""/>[30s] Good job.<break time=""2s""/> Remember that even in chaotic moments,<break time=""1s""/> your breath is always within your control—a steady,<break time=""1s""/> calming presence.<break time=""2s""/> The more your practice mindful breathing here,<break time=""1s""/> the easier it is to invoke the embraceland mindset in your time of needs.<break time=""2s""/>
+      </prosody>
+    </mstts:express-as>
+  </voice>
+</speak>"
+forest,"<speak xmlns=""http://www.w3.org/2001/10/synthesis"" 
+       xmlns:mstts=""http://www.w3.org/2001/mstts"" 
+       xmlns:emo=""http://www.w3.org/2009/10/emotionml"" 
+       version=""1.0"" xml:lang=""en-US"">
+  <voice name=""en-US-NancyNeural"">
+    <s />
+    <mstts:express-as style=""whispering"">
+      <prosody rate=""-15.00%"">
+        You hear fire crackling in the distance and see a campfire on the meadow.<break time=""2s""/> Let's get closer to the campfire and enjoy a 4-min loving-kindness meditation to practice giving yourself love and peace.<break time=""2s""/> As you sit close to the campfire,<break time=""1s""/> feel the warmth radiating toward you,<break time=""1s""/> wrapping you in a gentle,<break time=""1s""/> comforting embrace.<break time=""2s""/> The soft crackle of the flames mirrors the steady rhythm of your breath,<break time=""1s""/> drawing you deeper into the moment.<break time=""2s""/> Imagine this fire as a symbol of kindness,<break time=""1s""/> its glow expanding with each inhale,<break time=""1s""/> reaching your heart and filling you with warmth.<break time=""2s""/> With each exhale,<break time=""1s""/> let this kindness extend outward—to yourself,<break time=""1s""/> to someone you love,<break time=""1s""/> and to the world around you.<break time=""2s""/> [30s] Begin directing kindness toward yourself by silently repeating some traditional phrases: May I be safe.<break time=""2s""/>[8s] May I be healthy.<break time=""2s""/> [8s] May I live with ease.<break time=""2s""/>[8s] May I be happy.<break time=""2s""/> [8s] May I be peaceful.<break time=""2s""/> [8s] May I be free from suffering.<break time=""2s""/>[8s] You can choose a phrases that resonate with you,<break time=""1s""/> or create your own.<break time=""2s""/> Focus on one that evokes a sense of soothing loving-kindness.<break time=""2s""/> [8s] Silently say the phrases to yourself,<break time=""1s""/> establishing a comfortable rhythm.<break time=""2s""/> [40s] Let the fire’s glow remind you of the love and compassion that reside within you,<break time=""1s""/> steady and eternal.<break time=""2s""/> [30s] Good job.<break time=""2s""/> Remember that kindness and compassion,<break time=""1s""/> like the steady warmth of the fire,<break time=""1s""/> are always within you.<break time=""2s""/> As you nurture this warmth,<break time=""1s""/> you strengthen the EmbraceLand mindset of openness and compassion.<break time=""2s""/> The more you practice loving-kindness here,<break time=""1s""/> the easier it becomes to embody this mindset and share it with yourself and others in everyday life.<break time=""2s""/>
+      </prosody>
+    </mstts:express-as>
+  </voice>
+</speak>"
+bird,"<speak xmlns=""http://www.w3.org/2001/10/synthesis"" 
+       xmlns:mstts=""http://www.w3.org/2001/mstts"" 
+       xmlns:emo=""http://www.w3.org/2009/10/emotionml"" 
+       version=""1.0"" xml:lang=""en-US"">
+  <voice name=""en-US-NancyNeural"">
+    <s />
+    <mstts:express-as style=""whispering"">
+      <prosody rate=""-15.00%"">
+        As you complete your session,<break time=""1s""/> take a moment to imagine yourself in a garden for tracking your progress.<break time=""2s""/>  In your hands,<break time=""1s""/> you hold a small seed—a symbol of the growth and care you’ve cultivated today.<break time=""2s""/> Kneeling gently,<break time=""1s""/> you press the seed into the soft,<break time=""1s""/> welcoming earth of your garden.<break time=""2s""/> By the time you return you will have a flower in your progress garden.<break time=""2s""/> Each bloom you cultivate will serve as a marker of your cultivation of the EmbraceLand mindset.<break time=""2s""/> As your journey through the Embraceland comes to an end,<break time=""1s""/> take one final moment to look around and slowly walk back to where you come from.<break time=""2s""/> With each step,<break time=""1s""/> carry with you the essence of this place—the serenity,<break time=""1s""/> the clarity,<break time=""1s""/> and the energy it awakened within you.<break time=""2s""/> Remember,<break time=""1s""/> this is not just a dream or a distant escape.<break time=""2s""/> Everything you’ve felt here comes from within you,<break time=""1s""/> a reflection of your heart and mind.<break time=""2s""/> As you cross the threshold from EmbraceLand back into your daily life,<break time=""1s""/> know that this inner peace is always with you.<break time=""2s""/> Let it guide you,<break time=""1s""/> steady you,<break time=""1s""/> and bring light to every moment ahead.<break time=""2s""/>
+      </prosody>
+    </mstts:express-as>
+  </voice>
+</speak>"
